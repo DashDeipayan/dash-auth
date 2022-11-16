@@ -1,5 +1,5 @@
 {
-	"name": "@dashdeipayan/common",
+	"name": "@dashdeipayan/dash-auth",
 	"version": "1.0.2",
 	"description": "",
 	"main": "./build/index.js",
